@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/votes": {
+      "name": "/votes",
+      "lambdaFunction": "pollCounterFunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "pollCounterDDB",
+  "tableName": "pollCounterDDB",
+  "partitionKey": {
+    "fieldName": "partitionKey",
+    "fieldType": "string"
+  },
+  "sortKey": {
+    "fieldName": "sortKey",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
